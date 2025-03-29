@@ -1,0 +1,10 @@
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog COMPFILE\Module 1.2 - Rust\rust_web_scraper\target\debug\deps\libsiphasher-a0822e4fd9005edc.rmeta: C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\lib.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip128.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\../README.md
+
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog COMPFILE\Module 1.2 - Rust\rust_web_scraper\target\debug\deps\libsiphasher-a0822e4fd9005edc.rlib: C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\lib.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip128.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\../README.md
+
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog COMPFILE\Module 1.2 - Rust\rust_web_scraper\target\debug\deps\siphasher-a0822e4fd9005edc.d: C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\lib.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip128.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\../README.md
+
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\lib.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\sip128.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\siphasher-1.0.1\src\../README.md:

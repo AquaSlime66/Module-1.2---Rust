@@ -1,0 +1,11 @@
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog COMPFILE\Module 1.2 - Rust\rust_web_scraper\target\debug\deps\libbitflags-dc9313529fbcc747.rmeta: C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\lib.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\iter.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\parser.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\traits.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\public.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\internal.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\external.rs
+
+C:\Users\AquaS\OneDrive\Documents\CSE 310 Applied Prog COMPFILE\Module 1.2 - Rust\rust_web_scraper\target\debug\deps\bitflags-dc9313529fbcc747.d: C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\lib.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\iter.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\parser.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\traits.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\public.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\internal.rs C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\external.rs
+
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\lib.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\iter.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\parser.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\traits.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\public.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\internal.rs:
+C:\Users\AquaS\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitflags-2.9.0\src\external.rs:
